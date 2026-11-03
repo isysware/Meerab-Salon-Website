@@ -1,0 +1,1 @@
+The Signature: six supplied 2043x770 photos; Bridal detail: same six; Hair detail: five supplied portrait photos. Original services and contact form retained. Detail buttons scroll to #enquiry and set context. Reduced motion freezes the slider on the first item. No pricing or booking confirmation is implied.

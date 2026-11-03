@@ -1,0 +1,1 @@
+Yamima Services & Pricing: 6 tabs, 5 pricing categories, 3 packages. Source values preserved exactly, including Face Wax/Threading Rs 3.00/4.00/5.00/6.00 which require business confirmation. Artist name Meerab Sarfraz retained as provided.

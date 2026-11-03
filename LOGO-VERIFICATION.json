@@ -1,0 +1,392 @@
+[
+  {
+    "viewport": 1440,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 95.984375,
+          "right": 196,
+          "width": 100.015625
+        },
+        "tagline": {
+          "left": 88.8125,
+          "right": 203.1875,
+          "width": 114.375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 88.015625,
+          "right": 179.703125,
+          "width": 91.6875
+        },
+        "tagline": {
+          "left": 80,
+          "right": 187.71875,
+          "width": 107.71875
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 89,
+      "brandWidth": 132,
+      "navVisible": true,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 1024,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 47.984375,
+          "right": 148,
+          "width": 100.015625
+        },
+        "tagline": {
+          "left": 40.8125,
+          "right": 155.1875,
+          "width": 114.375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 40.015625,
+          "right": 131.703125,
+          "width": 91.6875
+        },
+        "tagline": {
+          "left": 32,
+          "right": 139.71875,
+          "width": 107.71875
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 81,
+      "brandWidth": 132,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 900,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 47.984375,
+          "right": 148,
+          "width": 100.015625
+        },
+        "tagline": {
+          "left": 40.8125,
+          "right": 155.1875,
+          "width": 114.375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 40.015625,
+          "right": 131.703125,
+          "width": 91.6875
+        },
+        "tagline": {
+          "left": 32,
+          "right": 139.71875,
+          "width": 107.71875
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 81,
+      "brandWidth": 132,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 768,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 47.984375,
+          "right": 148,
+          "width": 100.015625
+        },
+        "tagline": {
+          "left": 40.8125,
+          "right": 155.1875,
+          "width": 114.375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 40.015625,
+          "right": 131.703125,
+          "width": 91.6875
+        },
+        "tagline": {
+          "left": 32,
+          "right": 139.71875,
+          "width": 107.71875
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 81,
+      "brandWidth": 132,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 767,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 34.328125,
+          "right": 117.671875,
+          "width": 83.34375
+        },
+        "tagline": {
+          "left": 26.8125,
+          "right": 125.171875,
+          "width": 98.359375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 28.125,
+          "right": 115.640625,
+          "width": 87.515625
+        },
+        "tagline": {
+          "left": 20,
+          "right": 123.765625,
+          "width": 103.765625
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 73,
+      "brandWidth": 112,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 600,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 34.328125,
+          "right": 117.671875,
+          "width": 83.34375
+        },
+        "tagline": {
+          "left": 26.8125,
+          "right": 125.171875,
+          "width": 98.359375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 28.125,
+          "right": 115.640625,
+          "width": 87.515625
+        },
+        "tagline": {
+          "left": 20,
+          "right": 123.765625,
+          "width": 103.765625
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 73,
+      "brandWidth": 112,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 390,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 34.328125,
+          "right": 117.671875,
+          "width": 83.34375
+        },
+        "tagline": {
+          "left": 26.8125,
+          "right": 125.171875,
+          "width": 98.359375
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 28.125,
+          "right": 115.640625,
+          "width": 87.515625
+        },
+        "tagline": {
+          "left": 20,
+          "right": 123.765625,
+          "width": 103.765625
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 73,
+      "brandWidth": 112,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 375,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 28.328125,
+          "right": 111.671875,
+          "width": 83.34375
+        },
+        "tagline": {
+          "left": 23.40625,
+          "right": 116.578125,
+          "width": 93.171875
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 24.125,
+          "right": 111.640625,
+          "width": 87.515625
+        },
+        "tagline": {
+          "left": 16,
+          "right": 119.765625,
+          "width": 103.765625
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 73,
+      "brandWidth": 108,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 350,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 28.328125,
+          "right": 111.671875,
+          "width": 83.34375
+        },
+        "tagline": {
+          "left": 23.40625,
+          "right": 116.578125,
+          "width": 93.171875
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 24.125,
+          "right": 111.640625,
+          "width": 87.515625
+        },
+        "tagline": {
+          "left": 16,
+          "right": 119.765625,
+          "width": 103.765625
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 73,
+      "brandWidth": 108,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  },
+  {
+    "viewport": 320,
+    "status": "PASS",
+    "measurements": {
+      "header": {
+        "wordmark": {
+          "left": 28.328125,
+          "right": 111.671875,
+          "width": 83.34375
+        },
+        "tagline": {
+          "left": 23.40625,
+          "right": 116.578125,
+          "width": 93.171875
+        },
+        "inside": true,
+        "centerError": 0.0078125
+      },
+      "footer": {
+        "wordmark": {
+          "left": 24.125,
+          "right": 111.640625,
+          "width": 87.515625
+        },
+        "tagline": {
+          "left": 16,
+          "right": 119.765625,
+          "width": 103.765625
+        },
+        "inside": true,
+        "centerError": 0
+      },
+      "overflow": false,
+      "headerHeight": 73,
+      "brandWidth": 108,
+      "navVisible": false,
+      "navbarNoOverlap": true
+    }
+  }
+]

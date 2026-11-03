@@ -1,0 +1,246 @@
+{
+  "1440": {
+    "passed": 10,
+    "cases": [
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "spa",
+        "rows": 12,
+        "packages": 0
+      },
+      {
+        "category": "nails",
+        "rows": 15,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      },
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      }
+    ],
+    "errors": [],
+    "viewport": {
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "bodyWidth": 1440
+    }
+  },
+  "900": {
+    "passed": 10,
+    "cases": [
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "spa",
+        "rows": 12,
+        "packages": 0
+      },
+      {
+        "category": "nails",
+        "rows": 15,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      },
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      }
+    ],
+    "errors": [],
+    "viewport": {
+      "scrollWidth": 900,
+      "innerWidth": 900,
+      "bodyWidth": 900
+    }
+  },
+  "390": {
+    "passed": 10,
+    "cases": [
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "spa",
+        "rows": 12,
+        "packages": 0
+      },
+      {
+        "category": "nails",
+        "rows": 15,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      },
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      }
+    ],
+    "errors": [],
+    "viewport": {
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "bodyWidth": 390
+    }
+  },
+  "320": {
+    "passed": 10,
+    "cases": [
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "spa",
+        "rows": 12,
+        "packages": 0
+      },
+      {
+        "category": "nails",
+        "rows": 15,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      },
+      {
+        "category": "bridal",
+        "rows": 18,
+        "packages": 0
+      },
+      {
+        "category": "skin",
+        "rows": 35,
+        "packages": 0
+      },
+      {
+        "category": "hair",
+        "rows": 26,
+        "packages": 0
+      },
+      {
+        "category": "packages",
+        "rows": 0,
+        "packages": 3
+      }
+    ],
+    "errors": [],
+    "viewport": {
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "bodyWidth": 320
+    }
+  }
+}

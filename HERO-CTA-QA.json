@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "image_dimensions": "1952x806",
+  "desktop_actual_link_controls": 2,
+  "mobile_actual_link_controls": 2,
+  "destinations": [
+    "#portfolio",
+    "#enquiry"
+  ],
+  "signature_slides": 6,
+  "broken_asset_paths": [],
+  "js_syntax": "passed",
+  "browser_viewports": [
+    "1440x900",
+    "1280x800",
+    "1024x768",
+    "900x800",
+    "390x844",
+    "320x700"
+  ],
+  "browser_cta_clicks": "passed",
+  "keyboard_enter_activation": "passed",
+  "no_horizontal_overflow": "passed",
+  "note": "Offline Chromium renders Google font fallbacks; live-hosted QA remains necessary."
+}
