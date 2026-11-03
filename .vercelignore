@@ -1,0 +1,6 @@
+# Local server and docs
+server.js
+*.md
+*.json
+!vercel.json
+.git
