@@ -16,7 +16,7 @@
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Allura&amp;family=Cormorant+Garamond:wght@400;500;600&amp;family=Manrope:wght@400;500;600;700&amp;family=WindSong:wght@400&amp;display=swap" rel="stylesheet"/>
-<link href="assets/css/styles.css?v=20261102-hero-hover-geometry-v3" rel="stylesheet"/>
+<link href="assets/css/styles.css?v=20261105-mobile-banner-fix" rel="stylesheet"/>
 <script defer="" src="assets/js/config.js"></script>
 <script defer="" src="assets/js/app.js"></script>
 <script defer="" src="assets/js/enhancements.js?v=20261102-hero-hover-geometry-v3"></script>
@@ -74,8 +74,13 @@
 <section aria-label="Yamima Bridal Studio — elegance perfected" class="hero hero-approved" id="home">
   <!-- Approved 1952×806 artwork includes its visible desktop text and button graphics.
        Positioned <a> elements below are real links matching those graphic bounds,
-       with accessible names and keyboard focus states; no duplicate visible text. -->
-  <img alt="Yamima makeup artist applying bridal makeup to a client in a warm salon, with the banner title Elegance, Perfected by Yamima" class="hero-approved-photo" decoding="async" fetchpriority="high" height="806" src="assets/img/yamima-makeup-artist-hero-20261030.png" width="1952"/>
+       with accessible names and keyboard focus states; no duplicate visible text.
+       On mobile screens (<= 768px), a dedicated mobile-tailored banner is served showing
+       both Yamima and the bride in full with proper composition. -->
+  <picture class="hero-approved-picture">
+    <source media="(max-width: 768px)" srcset="assets/img/yamima-makeup-artist-hero-mobile.jpg?v=20261105-mobile-banner"/>
+    <img alt="Yamima makeup artist applying bridal makeup to a client in a warm salon, with the banner title Elegance, Perfected by Yamima" class="hero-approved-photo" decoding="async" fetchpriority="high" height="806" src="assets/img/yamima-makeup-artist-hero-20261030.png" width="1952"/>
+  </picture>
   <div class="hero-approved-hotspots" aria-label="Homepage actions">
     <a class="hero-approved-hotspot" data-artwork-rect="76,570,344,633" href="#portfolio" aria-label="Explore My Work — go to Portfolio"><span class="sr-only">Explore My Work</span></a>
     <a class="hero-approved-hotspot" data-artwork-rect="364,570,585,633" href="#enquiry" aria-label="Get In Touch — go to Contact"><span class="sr-only">Get In Touch</span></a>
