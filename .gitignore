@@ -8,3 +8,6 @@ npm-debug.log*
 
 # Antigravity / Agent metadata
 .gemini/
+
+
+.vercel
