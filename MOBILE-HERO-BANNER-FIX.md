@@ -20,3 +20,4 @@
    - Updated `.hero-approved-photo` on mobile (`max-width: 768px`) to `object-position: center top;`.
    - Balanced `.hero-approved-mobile-content` positioning so the live text and buttons are placed cleanly at the bottom without obscuring the artist or the client.
    - Removed conflicting duplicate mobile media queries.
+
