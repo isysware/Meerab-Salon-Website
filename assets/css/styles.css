@@ -997,7 +997,7 @@ html {scroll-behavior:auto!important;scroll-padding-top:0!important;}
   object-position:center; filter:none; }
 .hero-approved-hotspots { position:absolute; inset:0; pointer-events:none; }
 .hero-approved-hotspot { position:absolute; display:block; pointer-events:auto;
-  background:transparent; border-radius:999px; outline-offset:4px; }
+  background:transparent; border-radius:8px; outline-offset:4px; }
 .hero-approved-hotspot:focus-visible { outline:3px solid #ffd597; background:rgba(255,218,164,.13); }
 .hero-approved-mobile-content { display:none; }
 /* This is visually hidden text for screen readers, not a second visible label. */
@@ -1052,7 +1052,7 @@ html {scroll-behavior:auto!important;scroll-padding-top:0!important;}
    so that its headings and real link hit areas are never cropped. The unobtrusive
    backing is the same photograph (not a different or placeholder image). */
 @media (min-width:1101px) and (min-aspect-ratio: 3 / 2) {
-  .hero-approved { background:linear-gradient(rgba(28,17,11,.84),rgba(28,17,11,.84)),url('../img/yamima-makeup-artist-hero-20261030.png') center / cover no-repeat #25180f; }
+  .hero-approved { background:linear-gradient(rgba(28,17,11,.84),rgba(28,17,11,.84)),url('../img/yamima-makeup-artist-hero-20261030.png?v=20261105-hero-buttons-v6') center / cover no-repeat #25180f; }
   .hero-approved-photo { object-fit:contain; object-position:center center; }
 }
 /* Image-backed real links: preserve the graphic's style; make the complete button
@@ -1067,7 +1067,7 @@ html {scroll-behavior:auto!important;scroll-padding-top:0!important;}
 /* 2026-11-02: Hover is a contained tint, not a second border. The desktop
    button outlines are already painted into the approved hero photograph. */
 .hero-approved-hotspot {
-  box-sizing:border-box; overflow:hidden; border:0; border-radius:999px;
+  box-sizing:border-box; overflow:hidden; border:0; border-radius:8px;
   box-shadow:none; outline:none; background:transparent;
   transition:background-color .18s ease;
 }
@@ -1097,11 +1097,11 @@ html {scroll-behavior:auto!important;scroll-padding-top:0!important;}
    No CSS border/outline/shadow is painted outside the photographed buttons. */
 .hero-approved-hotspot, .hero-approved-hotspot:hover, .hero-approved-hotspot:focus-visible {
   background:transparent; border:0; box-shadow:none; transform:none;
-  overflow:hidden; border-radius:9999px; box-sizing:border-box;
+  overflow:hidden; border-radius:8px; box-sizing:border-box;
 }
 .hero-approved-hotspot { isolation:isolate; transition:none; }
 .hero-approved-hotspot::before {
-  content:""; position:absolute; inset:4px; border-radius:9999px;
+  content:""; position:absolute; inset:4px; border-radius:8px;
   background:rgba(255,224,180,0); pointer-events:none;
   transition:background-color .2s ease;
 }
